@@ -12,3 +12,4 @@ A fox enhancement mod for Fabric.
 ## Build
 
 Just do `./gradlew build` and everything should build just fine!
+test
